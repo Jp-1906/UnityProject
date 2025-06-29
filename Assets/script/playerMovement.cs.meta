@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8af3ee39057825140b0d7bb350a0ff82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audio: {instanceID: 0}
+  - jumpClip: {fileID: 8300000, guid: 47c250396eaccd3488bde50bf653a3cc, type: 3}
+  - scoreClip: {fileID: 8300000, guid: 88281d160e62cd744ab727bb75b7b888, type: 3}
+  - obstacleClip: {fileID: 8300000, guid: aade0bb011e4f384686c889845060305, type: 3}
+  - scoreTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
